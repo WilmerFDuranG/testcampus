@@ -1,0 +1,12 @@
+h1{
+    color:black;
+}
+.first-message{
+    text-align: center;
+}
+.homepage{
+    text-align: center;
+    margin: 40px;
+    border-style:groove;
+    background-color: aqua;
+}
